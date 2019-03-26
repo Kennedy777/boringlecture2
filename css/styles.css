@@ -1,0 +1,38 @@
+.intro {
+  color: darkred;
+  font-size: 20px;
+  font-style: italic;
+}
+
+img.intro {
+  border: 10px dotted green;
+}
+
+h1 {
+  color: darkred;
+}
+
+/* body {
+  text-align: center;
+  margin-left: 45px;
+  margin-right: 45px;
+} */
+
+.thing1 {
+  background-color: white;
+  color: black;
+}
+
+.thing2 {
+  background-color: black;
+  color: white;
+}
+
+/* .white-background {
+  background-color: white;
+  color: black;
+}
+
+.yellow-background {
+  background-color: yellow;
+} */
